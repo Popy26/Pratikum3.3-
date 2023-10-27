@@ -1,0 +1,21 @@
+DOCTYPE html>
+<html>
+<head>
+    <title>Hasil Pemesanan</title>
+</head>
+<body>
+    <h1>Terima kasih atas pemesanan Anda!</h1>
+
+    <h2>Detail Pemesanan:</h2>
+    <p><strong>Nama:</strong> [Nama yang Anda masukkan]</p>
+    <p><strong>Alamat:</strong> [Alamat yang Anda masukkan]</p>
+    <p><strong>Produk yang Dipesan:</strong> [Produk yang Anda pilih]</p>
+    <p><strong>Jumlah:</strong> [Jumlah yang Anda masukkan]</p>
+    <p><strong>Catatan:</strong> [trimakadih atas pemesanannya semoga anda suka dengan produk kami]</p>
+
+    <p>Gambar Produk: <img src="/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20231024-WA0022.jpg"
+    width="width:30px; height:30px;"</p>
+
+    <p>Terima kasih telah memesan produk kami!</p>
+</body>
+</html>
